@@ -44,3 +44,13 @@ komponen tDBInput dan tDBOutput saja (tanpa tMap). Berikut tampilan Job FactSale
 ![image](https://github.com/hadasadida/Project-2---Membuat-Data-Warehouse-Untuk-Kebutuhan-Salah-Satu-Client-Company/assets/124650679/cc522c4e-f7cb-40fc-86e8-153f915ad85b)
 
 ## Task 4 Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan status pengiriman
+Berikut merupakan queryStore Procedure yang telah dibuat. @StatusID sebagai parameter yang sudah dibuat oleh SP dan sebagai filter dari query yang ada di dalam SP tersebut. Sehingga jika dilakukan input StatusID, maka query akan menampilkan berdasarkan StatusID yang di input.
+
+Query SP
+
+![image](https://github.com/hadasadida/Project-2---Membuat-Data-Warehouse-Untuk-Kebutuhan-Salah-Satu-Client-Company/assets/124650679/7d2116a9-3650-431e-b540-a579869e013a)
+
+Output SP
+
+![image](https://github.com/hadasadida/Project-2---Membuat-Data-Warehouse-Untuk-Kebutuhan-Salah-Satu-Client-Company/assets/124650679/082c325d-9c9f-41df-8203-ca369a1fa8e0)
+
